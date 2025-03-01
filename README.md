@@ -1,4 +1,4 @@
-# [howdeepisyourleran](https://www.youtube.com/watch?v=EgqUJOudrcM)
+# [howdeepisyourlearn](https://www.youtube.com/watch?v=EgqUJOudrcM)
 
 # SmartBin-SG: AI-Powered Food Waste Management 🇸🇬
 
@@ -24,12 +24,14 @@ Singapore's premier AI-driven solution for food waste reduction in cafeterias.
 | Weight Sensor          | HX711 with 5kg Load Cell             |
 | Power Supply           | 5V 3A USB-C (Singapore Certified)    |
 
-Compliance & Validation ✔️
-Metric	Requirement	Our System
-Classification Accuracy	>85% mAP@0.5	89.2%
-Weight Error Margin	<±5%	3.8%
-Report Generation Time	<2s	1.4s
-NEA SS 668 Compliance	Full	✅
+## Compliance & Validation ✔️
+
+| Metric                  | Requirement  | Our System |
+|-------------------------|--------------|------------|
+| Classification Accuracy | >85% mAP@0.5 | 89.2%      |
+| Weight Error Margin     | <±5%         | 3.8%       |
+| Report Generation Time  | <2s          | 1.4s       |
+| NEA SS 668 Compliance   | Full         | ✅         |
 
 
 ## Dataset Structure 📂
