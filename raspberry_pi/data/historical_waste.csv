@@ -1,0 +1,3 @@
+timestamp,food_type,weight_kg,temperature,is_holiday
+2023-10-01 12:00:00,chicken_rice,2.3,28.5,0
+2023-10-01 12:15:00,laksa,1.8,29.1,0
