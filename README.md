@@ -1,11 +1,13 @@
-# howdeepisyourlearn
+# [howdeepisyourleran](https://www.youtube.com/watch?v=EgqUJOudrcM)
 
 # SmartBin-SG: AI-Powered Food Waste Management 🇸🇬
 
 [![NEA Compliance](https://img.shields.io/badge/NEA-Compliant-009639)](https://www.nea.gov.sg)
 [![Roboflow Model](https://img.shields.io/badge/Roboflow-Model-FF3621)](https://universe.roboflow.com/food-waste-h4zkp/food-waste-classification-1/model/2)
 
-Singapore's premier AI-driven solution for food waste reduction in  cafeterias.
+for Deep Learning Week 2025
+
+Singapore's premier AI-driven solution for food waste reduction in cafeterias.
 
 ## Features ✨
 - **Real-time Food Classification** using YOLOv8 (Roboflow Model)
